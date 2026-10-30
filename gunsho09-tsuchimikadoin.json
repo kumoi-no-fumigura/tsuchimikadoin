@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsuchimikadoin",
  "yomi": "つちみかどいんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "鎌倉前期",
+  "author": "土御門院（1195〜1231）",
+  "desc": "土御門院の御集。冒頭の述懐歌群には藤原家隆の合点と批評の詞を添える。奥書に永禄8年（1565）、勅本と校合したとある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -5170,6 +5175,6 @@
   "poems": 449,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
